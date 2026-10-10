@@ -1,0 +1,19 @@
+[
+    {
+    "id":1,
+    "name":"Ved Prakash",
+    "email":"ved@gmail.com",
+    "otp":"1234",
+    "role":"supperAdmin",
+    "token":"asdfghjklqwertyui1234567@#$%^&*"
+    },
+    {
+    "id":2,
+    "name":"Shalu",
+    "email":"shalu@gmail.com",
+    "otp":"2004",
+    "role":"admin",
+    "token":"asdfghjklqwertyndgvfjyevcjsrfgsh54678dschjvsdcv6ui@#$%^&*"
+
+    }
+]

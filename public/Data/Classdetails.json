@@ -1,0 +1,192 @@
+[
+  {
+    "_id": 1,
+    "Class": "1st",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Anjali" },
+      { "Subject": "English", "Teacher": "Mrs. Ayush" },
+      { "Subject": "Math", "Teacher": "Mr. Rahul" },
+      { "Subject": "Science", "Teacher": "Mrs. Priya" },
+      { "Subject": "Computer", "Teacher": "Mr. Amit" },
+      { "Subject": "GK", "Teacher": "Mrs. Neha" },
+      { "Subject": "Drawing", "Teacher": "Mrs. Pooja" },
+      { "Subject": "EVS", "Teacher": "Mr. Rohit" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 2,
+    "Class": "2nd",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Kavita" },
+      { "Subject": "English", "Teacher": "Mr. Suresh" },
+      { "Subject": "Math", "Teacher": "Mrs. Riya" },
+      { "Subject": "Science", "Teacher": "Mr. Mohit" },
+      { "Subject": "Computer", "Teacher": "Mrs. Sneha" },
+      { "Subject": "GK", "Teacher": "Mr. Arjun" },
+      { "Subject": "Drawing", "Teacher": "Mrs. Simran" },
+      { "Subject": "EVS", "Teacher": "Mr. Kunal" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 3,
+    "Class": "3rd",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Nisha" },
+      { "Subject": "English", "Teacher": "Mr. Vivek" },
+      { "Subject": "Math", "Teacher": "Mrs. Shalini" },
+      { "Subject": "Science", "Teacher": "Mr. Deepak" },
+      { "Subject": "Computer", "Teacher": "Mrs. Komal" },
+      { "Subject": "GK", "Teacher": "Mr. Manish" },
+      { "Subject": "Drawing", "Teacher": "Mrs. Ritu" },
+      { "Subject": "EVS", "Teacher": "Mr. Ashish" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 4,
+    "Class": "4th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Meena" },
+      { "Subject": "English", "Teacher": "Mr. Raj" },
+      { "Subject": "Math", "Teacher": "Mrs. Poonam" },
+      { "Subject": "Science", "Teacher": "Mr. Varun" },
+      { "Subject": "Computer", "Teacher": "Mrs. Aarti" },
+      { "Subject": "GK", "Teacher": "Mr. Naveen" },
+      { "Subject": "Drawing", "Teacher": "Mrs. Jyoti" },
+      { "Subject": "EVS", "Teacher": "Mr. Sameer" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 5,
+    "Class": "5th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Sunita" },
+      { "Subject": "English", "Teacher": "Mr. Akash" },
+      { "Subject": "Math", "Teacher": "Mrs. Swati" },
+      { "Subject": "Science", "Teacher": "Mr. Gaurav" },
+      { "Subject": "Computer", "Teacher": "Mrs. Monika" },
+      { "Subject": "GK", "Teacher": "Mr. Sachin" },
+      { "Subject": "Drawing", "Teacher": "Mrs. Preeti" },
+      { "Subject": "EVS", "Teacher": "Mr. Tarun" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 6,
+    "Class": "6th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Seema" },
+      { "Subject": "English", "Teacher": "Mr. Ankit" },
+      { "Subject": "Math", "Teacher": "Mrs. Divya" },
+      { "Subject": "Science", "Teacher": "Mr. Pankaj" },
+      { "Subject": "Computer", "Teacher": "Mrs. Rachna" },
+      { "Subject": "GK", "Teacher": "Mr. Harish" },
+      { "Subject": "Drawing", "Teacher": "Mrs. Vandana" },
+      { "Subject": "Sanskrit", "Teacher": "Mr. Dinesh" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 7,
+    "Class": "7th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Rekha" },
+      { "Subject": "English", "Teacher": "Mr. Nitin" },
+      { "Subject": "Math", "Teacher": "Mrs. Shweta" },
+      { "Subject": "Science", "Teacher": "Mr. Ashok" },
+      { "Subject": "Computer", "Teacher": "Mrs. Payal" },
+      { "Subject": "GK", "Teacher": "Mr. Lokesh" },
+      { "Subject": "Social Science", "Teacher": "Mrs. Garima" },
+      { "Subject": "Sanskrit", "Teacher": "Mr. Rakesh" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 8,
+    "Class": "8th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Mamta" },
+      { "Subject": "English", "Teacher": "Mr. Sunil" },
+      { "Subject": "Math", "Teacher": "Mrs. Neelam" },
+      { "Subject": "Science", "Teacher": "Mr. Rajesh" },
+      { "Subject": "Computer", "Teacher": "Mrs. Shikha" },
+      { "Subject": "GK", "Teacher": "Mr. Yogesh" },
+      { "Subject": "Social Science", "Teacher": "Mrs. Kiran" },
+      { "Subject": "Sanskrit", "Teacher": "Mr. Mukesh" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 9,
+    "Class": "9th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Seema" },
+      { "Subject": "English", "Teacher": "Mr. Vikram" },
+      { "Subject": "Math", "Teacher": "Mrs. Alka" },
+      { "Subject": "Physics", "Teacher": "Mr. Pradeep" },
+      { "Subject": "Chemistry", "Teacher": "Mrs. Shilpi" },
+      { "Subject": "Biology", "Teacher": "Mr. Naveen" },
+      { "Subject": "Computer", "Teacher": "Mrs. Anamika" },
+      { "Subject": "Social Science", "Teacher": "Mr. Hemant" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  },
+  {
+    "_id": 10,
+    "Class": "10th",
+    "Subject": [
+      { "Subject": "Hindi", "Teacher": "Mrs. Sangeeta" },
+      { "Subject": "English", "Teacher": "Mr. Manish" },
+      { "Subject": "Math", "Teacher": "Mrs. Priyanka" },
+      { "Subject": "Physics", "Teacher": "Mr. Sanjay" },
+      { "Subject": "Chemistry", "Teacher": "Mrs. Renu" },
+      { "Subject": "Biology", "Teacher": "Mr. Alok" },
+      { "Subject": "Computer", "Teacher": "Mrs. Neha" },
+      { "Subject": "Social Science", "Teacher": "Mr. Vinod" }
+    ],
+    "fee": [
+      { "FeeType": "Admission Fee", "Amount": 1000, "PaymentType": "One Time" },
+      { "FeeType": "Tuition Fee", "Amount": 600, "PaymentType": "Monthly" },
+      { "FeeType": "Exam Fee", "Amount": 200, "PaymentType": "One Time" }
+    ]
+  }
+]

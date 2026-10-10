@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 1,
+    "name": "Mathmatics"
+  },
+  {
+    "_id": 2,
+    "name": "Hindi"
+  },
+  {
+    "_id": 3,
+    "name": "English"
+  },
+  {
+    "_id": 4,
+    "name": "Science"
+  },
+  {
+    "_id": 5,
+    "name": "Social Science"
+  },
+  {
+    "_id": 6,
+    "name": "Art"
+  },
+  {
+    "_id": 7,
+    "name": "Computer"
+  },
+  {
+    "_id": 8,
+    "name": "Home Sceince"
+  },
+  {
+    "_id": 9,
+    "name": "Sanskrit"
+  },
+  {
+    "_id": 10,
+    "name": "GK"
+  }
+]
